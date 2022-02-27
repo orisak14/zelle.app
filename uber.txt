@@ -1,0 +1,3 @@
+!#/ssh/bash
+echo 'this is my uber scripting and should be evaluated'
+echo "do no commit after review"
